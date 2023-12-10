@@ -1,0 +1,15 @@
+D:\projekty\Advent\Day5_2\bin\Debug\net6.0\Day5_2.exe
+D:\projekty\Advent\Day5_2\bin\Debug\net6.0\Day5_2.deps.json
+D:\projekty\Advent\Day5_2\bin\Debug\net6.0\Day5_2.runtimeconfig.json
+D:\projekty\Advent\Day5_2\bin\Debug\net6.0\Day5_2.dll
+D:\projekty\Advent\Day5_2\bin\Debug\net6.0\Day5_2.pdb
+D:\projekty\Advent\Day5_2\obj\Debug\net6.0\Day5_2.csproj.AssemblyReference.cache
+D:\projekty\Advent\Day5_2\obj\Debug\net6.0\Day5_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\projekty\Advent\Day5_2\obj\Debug\net6.0\Day5_2.AssemblyInfoInputs.cache
+D:\projekty\Advent\Day5_2\obj\Debug\net6.0\Day5_2.AssemblyInfo.cs
+D:\projekty\Advent\Day5_2\obj\Debug\net6.0\Day5_2.csproj.CoreCompileInputs.cache
+D:\projekty\Advent\Day5_2\obj\Debug\net6.0\Day5_2.dll
+D:\projekty\Advent\Day5_2\obj\Debug\net6.0\refint\Day5_2.dll
+D:\projekty\Advent\Day5_2\obj\Debug\net6.0\Day5_2.pdb
+D:\projekty\Advent\Day5_2\obj\Debug\net6.0\Day5_2.genruntimeconfig.cache
+D:\projekty\Advent\Day5_2\obj\Debug\net6.0\ref\Day5_2.dll
